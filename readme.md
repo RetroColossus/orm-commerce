@@ -8,7 +8,6 @@
 
 ### Walkthrough video : https://drive.google.com/file/d/1L2LdtjHrqkyUCXW80XfK2ZGvfNSAkl7R/view?usp=sharing
 
-### Video : ![](/assets/video/ecommerce.mp4)
 
 ### User Story
 
